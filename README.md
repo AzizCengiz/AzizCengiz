@@ -49,15 +49,3 @@ Tools
   </a>
 </p>
 
-📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AzizCengiz&show_icons=true&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzizCengiz&layout=compact&theme=tokyonight" />
-</p>
-
-⸻
-
-<p align="center">✨ Always learning, always building.</p>
