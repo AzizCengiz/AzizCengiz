@@ -2,63 +2,62 @@ Hi, I’m Aziz Cengiz 👋
 
 💻 Computer Engineering Student | Aspiring Full Stack Developer
 
-I’m a Computer Engineering student passionate about software development and building modern web applications.
+I’m a Computer Engineering student passionate about web development and software engineering. I’m currently improving my skills in frontend and backend technologies.
 
-I’m currently improving my skills in frontend and backend development while exploring new technologies and working on personal projects.
-
-⸻
-
-🚀 About Me
-
-* 🎓 Computer Engineering Student
-* 🌐 Interested in Full Stack Web Development
-* 💡 Learning React, Node.js and PostgreSQL
-* 📱 Have experience with Java and Kotlin
-* 📚 Always learning and improving my development skills
-* 🎯 My goal is to build scalable and user-friendly applications
-
-⸻
-
-🛠️ Technologies & Tools
+🚀 Technologies & Tools
 
 Frontend
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+</p>
+
 Backend & Database
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres&theme=dark" />
+</p>
 
 Programming Languages
 
-Development Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin&theme=dark" />
+</p>
 
-⸻
+Tools
 
-📂 My Projects
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+</p>
 
-I enjoy developing projects that help me improve my programming and problem-solving skills.
+📚 Currently Learning
 
-Check out my repositories:
-
-👉 Explore My Repositories
-
-⸻
-
-🌱 Currently Learning
-
-* React.js
-* Node.js & Express.js
+* React
+* Node.js & Express
 * PostgreSQL
-* RESTful APIs
-* Full Stack Application Development
+* REST APIs
+* Full Stack Web Development
+
+🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aziz-cengiz-069b4338b/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/AzizCengiz">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AzizCengiz&show_icons=true&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzizCengiz&layout=compact&theme=tokyonight" />
+</p>
 
 ⸻
 
-📊 GitHub Statistics
-
-⸻
-
-🤝 Connect With Me
-
-⸻
-
-⭐ Thanks for visiting my profile!
-
-Always learning, always building. 🚀
+<p align="center">✨ Always learning, always building.</p>
